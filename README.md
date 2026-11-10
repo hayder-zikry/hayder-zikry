@@ -9,8 +9,8 @@
 ## 🛠️ Skills
 - **Cloud:** AWS (VPC, EC2, Auto Scaling, ALB, RDS, Lambda, API Gateway, DynamoDB, S3, CloudWatch)
 - **Networking:** Subnetting and CIDR, TCP/IP, security groups, multi-AZ design
-- **Databases:** SQL Server, T-SQL, DynamoDB
-- **Development:** Python, JavaScript, Node.js, Express
+- **Databases:** SQL Server, T-SQL, DynamoDB, RDS
+- **Development:** Node.js, Express, REST APIs, Python, C#, JavaScript, HTML5, CSS, Go
 - **Tools:** Git, GitHub Actions, Jira, Postman, Jest, Swagger
 
 ## 📂 Projects
