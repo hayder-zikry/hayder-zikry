@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Hayder 👋
 
-<!--
-**hayder-zikry/hayder-zikry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Year 2 IT student at Ngee Ann Polytechnic, specialising in Cloud Computing
+- ☁️ AWS Certified Cloud Practitioner
+- 🔍 Looking for a 1-year cloud infrastructure internship from April 2027
+- 🌱 Currently learning Go and Docker with Terraform next
+- 🤝 Member of AWS User Group Singapore
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Cloud:** AWS (VPC, EC2, Auto Scaling, ALB, RDS, Lambda, API Gateway, DynamoDB, S3, CloudWatch)
+- **Networking:** Subnetting and CIDR, TCP/IP, security groups, multi-AZ design
+- **Databases:** SQL Server, T-SQL, DynamoDB
+- **Development:** Python, JavaScript, Node.js, Express
+- **Tools:** Git, GitHub Actions, Jira, Postman, Jest, Swagger
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- **OCBC Intelligent Operations AI Agent:** eading a 5-person team on a prototype that detects, investigates and resolves bank payment exceptions; own the data layer and rules engine
+- **AWS Cloud Migration:** led a 5-person team migrating a .NET app to AWS; designed and built the VPC network
+- **Hawker Centre Management System:** built 8 REST API features in Node.js, Express and SQL Server
+- **Litmus:** AI fact-checker for YouTube Shorts, 2nd place at Innopoly 2026
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/hayder-zikry/)
+- hayderzikry.official@gmail.com
