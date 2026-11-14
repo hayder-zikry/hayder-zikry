@@ -2,9 +2,9 @@
 
 - 🎓 Year 2 IT student at Ngee Ann Polytechnic, specialising in Cloud Computing
 - ☁️ AWS Certified Cloud Practitioner
-- 🔍 Looking for a 1-year cloud infrastructure internship from April 2027
-- 🌱 Currently learning Go and Docker with Terraform next
-- 🤝 Member of AWS User Group Singapore
+- Looking for a 1-year cloud infrastructure internship from April 2027
+- Currently learning Go and Docker with Terraform next
+- Member of AWS User Group Singapore
 
 ## 🛠️ Skills
 - **Cloud:** AWS (VPC, EC2, Auto Scaling, ALB, RDS, Lambda, API Gateway, DynamoDB, S3, CloudWatch)
